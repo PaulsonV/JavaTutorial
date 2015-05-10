@@ -5,7 +5,7 @@ package org.me;
  */
 public class Calc {
 
-    //sum up 2 values
+    //sum up 2 values. test
     public static int add(int a, int b) {
 
         int sum = a + b;
